@@ -1,0 +1,3 @@
+This is an encrypted UK phone number cracker, not to be used for any illegal purposes - however I'd be surpised if people are still encrypting their data like this.
+
+These numbers are randomly generated, but with a large enough sample all phone numbers will show up (as mine did). I limited this number to 1000 to reduce the performative stress on slower pc's running this program. 1 billion + will crash pc's not built for this kind of stuff!
